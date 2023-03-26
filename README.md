@@ -10,7 +10,7 @@ ajax请求库：axios
 富文本编辑器：react-quill
 CSS预编译器：sass
 
-项目的完整复现过程请参考如下链接：
+项目的完整复现过程请参考如下链接：https://blog.csdn.net/qq_53123067/article/details/129757298?spm=1001.2014.3001.5501
 
 相关项目图片如下所示
 
