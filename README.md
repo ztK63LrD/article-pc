@@ -20,3 +20,4 @@ ajax请求库：axios
 
 CSS预编译器：sass
 
+![图片](https://user-images.githubusercontent.com/97885806/227795493-b897816d-2524-4620-8893-e468fe6e882c.png)
